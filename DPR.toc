@@ -1,0 +1,7 @@
+## Interface : 90010
+## Title : DPR
+## Author : JohnsonKyer
+## Notes : Discord Rich Presence allows you to display data about your WoW character.
+## Version : 0.1
+
+drp-core.lua
